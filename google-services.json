@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "121184565477",
+    "firebase_url": "https://krestaurant-ebd96.firebaseio.com",
+    "project_id": "krestaurant-ebd96",
+    "storage_bucket": "krestaurant-ebd96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121184565477:android:978df93f01833297",
+        "android_client_info": {
+          "package_name": "com.krestaurant.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121184565477-a3tasm1ah7dk231euqlhq2s36g3tubr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-_JIhpMs9fahvOWOvRXrKwQLlwrXV5MM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
